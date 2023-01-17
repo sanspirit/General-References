@@ -1,0 +1,16 @@
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.azure-account
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare-audio
+code --install-extension ms-vsliveshare.vsliveshare-pack
+code --install-extension ms-vsts.team
+code --install-extension msazurermtools.azurerm-vscode-tools
+code --install-extension 2gua.rainbow-brackets
+code --install-extension bpruitt-goddard.mermaid-markdown-syntax-highlighting
+code --install-extension johnpapa.vscode-peacock
+code --install-extension karigari.chat
+code --install-extension mechatroner.rainbow-csv
+code --install-extension ritwickdey.LiveServer
+code --install-extension Shan.code-settings-sync
+code --install-extension vstirbu.vscode-mermaid-preview
